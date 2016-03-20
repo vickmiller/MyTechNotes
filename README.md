@@ -10,7 +10,7 @@
 ## 2.内存管理
 ### Reference Count
 ### ARC(Automatic Reference Count)
-### Retain Cycle
+### [Retain Cycle](https://github.com/SamingZhong/MyTechNotes/blob/master/Retain%20Cycle.md)
 #### 使用弱引用避免保留环
 #### 解环的技巧
 ### dealloc
