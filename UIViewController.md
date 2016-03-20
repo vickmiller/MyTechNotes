@@ -95,7 +95,7 @@ vcB pop回 vcA，则：
 5. B dealloc//A视图已经出现之后，vcB对象销毁。
 ```
 
-**值得注意的是，pop回来的时候前一个视图控制器在A视图viewDidAppear后才被销毁。**
+**值得注意的是，B视图pop回来的时候前一个视图控制器`vcB`在A视图`viewDidAppear`后才被销毁。**
 
 
 
