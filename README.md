@@ -2,14 +2,14 @@
 *我的技术笔记*
 ###[*工欲善其事,必先利其器*](https://github.com/SamingZhong/MyTechNotes/blob/master/MDs/Tools/Tools.md)
 
-### 0.[谈谈UIViewController](https://github.com/SamingZhong/MyTechNotes/blob/master/MDs/UIViewController/UIViewController.md)
+### [谈谈UIViewController](https://github.com/SamingZhong/MyTechNotes/blob/master/MDs/UIViewController/UIViewController.md)
 
-### 1.对象、消息、运行时
+### 对象、消息、运行时
 #### 属性
 #### 消息
 #### 运行时
 
-### 2.内存管理
+### 内存管理
 #### Reference Count
 #### ARC(Automatic Reference Count)
 #### [Retain Cycle](https://github.com/SamingZhong/MyTechNotes/blob/master/MDs/MemoryManage/RetainCycle.md)
@@ -18,7 +18,7 @@
 #### dealloc
 #### 自动释放池
 
-### 3.GCD
+### GCD
 #### 什么是Block
 #### GCD有可能会引发死锁
 #### dispatch group
