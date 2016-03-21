@@ -65,7 +65,7 @@ gitbook
 ####**Interview**
 
 
-[HIT-Alibaba/interview](https://github.com/SamingZhong/interview)
+[HIT-Alibaba/interview](https://github.com/HIT-Alibaba/interview)
 
 
-[OtherOfOther]()
+[OtherOfOther](https://github.com/SamingZhong/MyTechNotes/blob/master/MDs/Tools/Tools.md)
