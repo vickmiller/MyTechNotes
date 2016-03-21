@@ -1,8 +1,8 @@
 # MyTechNotes
 *我的技术笔记*
-###[*工欲善其事,必先利其器*](https://github.com/SamingZhong/MyTechNotes/blob/master/tools.md)
+###[*工欲善其事,必先利其器*](https://github.com/SamingZhong/MyTechNotes/blob/master/MDs/Tools/Tools.md)
 
-### 0.[UIViewController](https://github.com/SamingZhong/MyTechNotes/blob/master/UIViewController.md)
+### 0.[UIViewController](https://github.com/SamingZhong/MyTechNotes/blob/master/MDs/UIViewController/UIViewController.md)
 
 ### 1.对象、消息、运行时
 #### 属性
@@ -12,7 +12,7 @@
 ### 2.内存管理
 #### Reference Count
 #### ARC(Automatic Reference Count)
-#### [Retain Cycle](https://github.com/SamingZhong/MyTechNotes/blob/master/Retain%20Cycle.md)
+#### [Retain Cycle](https://github.com/SamingZhong/MyTechNotes/blob/master/MDs/MemoryManage/RetainCycle.md)
 #### 使用弱引用避免保留环
 #### 解环的技巧
 #### dealloc
