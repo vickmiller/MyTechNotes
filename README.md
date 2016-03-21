@@ -1,6 +1,6 @@
 # MyTechNotes
 *我的技术笔记*
-## [工具相关](https://github.com/SamingZhong/MyTechNotes/blob/master/tools.md)
+###[*工欲善其事,必先利其器*](https://github.com/SamingZhong/MyTechNotes/blob/master/tools.md)
 
 ### 0.[UIViewController](https://github.com/SamingZhong/MyTechNotes/blob/master/UIViewController.md)
 
@@ -22,6 +22,7 @@
 #### 什么是Block
 #### GCD有可能会引发死锁
 #### dispatch group
-#### dispatch_once
 #### 不要使用dispatch_get_current_queue
 #### GCD还是NSOperationQuue
+
+####并发控制
