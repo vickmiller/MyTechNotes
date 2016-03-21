@@ -9,7 +9,7 @@
 #### 消息
 #### 运行时
 
-## 内存管理
+## [内存管理]()
 #### Reference Count
 #### ARC(Automatic Reference Count)
 #### [Retain Cycle](https://github.com/SamingZhong/MyTechNotes/blob/master/MDs/MemoryManage/RetainCycle.md)

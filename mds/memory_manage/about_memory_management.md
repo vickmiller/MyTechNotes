@@ -1,2 +1,0 @@
-#About Memory Management
-
