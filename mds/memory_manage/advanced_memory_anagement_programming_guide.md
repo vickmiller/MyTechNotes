@@ -33,7 +33,7 @@
 
 | [NSAutoreleasePool](https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/Foundation/Classes/NSAutoreleasePool_Class/index.html#//apple_ref/occ/cl/NSAutoreleasePool) | 自动释放池              |
 | :--------------------------------------- | :----------------- |
-| [NSCopying](https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/Foundation/Protocols/NSCopying_Protocol/index.html#//apple_ref/occ/intf/NSCopying) | 拷贝                 |
+| [NSCopying](https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/Foundation/Protocols/NSCopying_Protocol/index.html#//apple_ref/occ/intf/NSCopying) |    对象浅拷贝                 |
 | [NSMutableCopying](https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/Foundation/Protocols/NSMutableCopying_Protocol/index.html#//apple_ref/occ/intf/NSMutableCopying) | 对象的可变拷贝（拷贝对象并令其可变） |
 | [NSObject_Class](https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/Foundation/Classes/NSObject_Class/index.html#//apple_ref/occ/cl/NSObject) |                    |
 | [NSObject_Protocol](https://developer.apple.com/library/prerelease/ios/documentation/Cocoa/Reference/Foundation/Protocols/NSObject_Protocol/index.html#//apple_ref/occ/intf/NSObject) |                    |
