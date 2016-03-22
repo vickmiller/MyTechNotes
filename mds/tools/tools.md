@@ -68,4 +68,4 @@ gitbook
 [HIT-Alibaba/interview](https://github.com/HIT-Alibaba/interview)
 
 
-[OtherOfOther](https://github.com/SamingZhong/MyTechNotes/blob/master/MDs/Tools/OtherOfOther.md)
+[OtherOfOther](https://github.com/SamingZhong/MyTechNotes/blob/master/mds/tools/other_of_other.md)
